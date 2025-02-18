@@ -1,0 +1,11 @@
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+[144868:144897:0217/235737.226277:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[144868:144868:0217/235737.452047:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+[144868:144897:0217/235801.985527:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[144919:144946:0217/235844.454808:ERROR:ssl_client_socket_impl.cc(877)] handshake failed; returned -1, SSL error code 1, net_error -100
+[144868:144897:0217/235901.042734:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[144868:144897:0218/000042.937471:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[144868:144897:0218/000411.787543:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+[144917:144917:0218/101004.943348:ERROR:gles2_cmd_decoder_passthrough.cc(1082)] [GroupMarkerNotSet(crbug.com/242999)!:A0F021005C160000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+[144917:144917:0218/101209.490793:ERROR:gles2_cmd_decoder_passthrough.cc(1082)] [GroupMarkerNotSet(crbug.com/242999)!:A0F021005C160000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
